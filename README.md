@@ -10,4 +10,10 @@ This is my first full-stack project.
 Frontend is created using ReactJs, Bootstrap, and Axios.
 Backend is created using ExpressJs, TypeORM, and PostgreSQL.
 
-![daily-blog](daily-blog.png)
+Sample Images
+
+![](sample%20images/landing-page.png)
+![](sample%20images/sign-up-page.png)
+![](sample%20images/home-page.png)
+![](sample%20images/compose-page.png)
+![](sample%20images/edit-delete-page.png)
